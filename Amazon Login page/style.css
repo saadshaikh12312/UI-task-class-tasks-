@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    text-align: center;
+}
+
+main{
+    margin: 20% auto;
+    width: 40%;
+}
+
+.logo img{
+    width: 30%;
+    cursor: pointer;
+}
+
+from{
+    padding: 1.5rem;
+    border: 1px solid rgba(0, 0, 0, 0.578);
+    box-shadow: 0px 0px 1px black;
+    border-radius: 15px;
+    text-align: center;
+}
